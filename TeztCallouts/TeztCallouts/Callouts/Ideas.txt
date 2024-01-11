@@ -1,0 +1,23 @@
+﻿-suspicious vehicle
+	-no vehicle
+	-vehicle
+		-suspect stays there (has drugs)
+		WIP -suspect flees
+		-suspect attacks
+
+-suspicious person
+	-no suspect
+	-suspect intoxicated
+		-suspect stays there
+		WIP-suspect flees
+		-suspect attacks
+
+-check area for problem
+	-no problem
+	-suspects fighting
+		-suspect stays there
+		-suspect flees
+		-suspect attacks
+
+-medical problem
+-vehicle fire

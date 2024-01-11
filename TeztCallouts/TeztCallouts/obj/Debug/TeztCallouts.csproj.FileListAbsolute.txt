@@ -1,0 +1,10 @@
+C:\Users\victo\OneDrive\Desktop\LSPDFR Scripts\Projects\TeztCallouts\TeztCallouts\bin\Debug\TeztCallouts.dll
+C:\Users\victo\OneDrive\Desktop\LSPDFR Scripts\Projects\TeztCallouts\TeztCallouts\bin\Debug\TeztCallouts.pdb
+C:\Users\victo\OneDrive\Desktop\LSPDFR Scripts\Projects\TeztCallouts\TeztCallouts\bin\Debug\LSPD First Response.dll
+C:\Users\victo\OneDrive\Desktop\LSPDFR Scripts\Projects\TeztCallouts\TeztCallouts\bin\Debug\RagePluginHookSDK.dll
+C:\Users\victo\OneDrive\Desktop\LSPDFR Scripts\Projects\TeztCallouts\TeztCallouts\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\victo\OneDrive\Desktop\LSPDFR Scripts\Projects\TeztCallouts\TeztCallouts\obj\Debug\TeztCallouts.csproj.AssemblyReference.cache
+C:\Users\victo\OneDrive\Desktop\LSPDFR Scripts\Projects\TeztCallouts\TeztCallouts\obj\Debug\TeztCallouts.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Desktop\LSPDFR Scripts\Projects\TeztCallouts\TeztCallouts\obj\Debug\TeztCallouts.csproj.CopyComplete
+C:\Users\victo\OneDrive\Desktop\LSPDFR Scripts\Projects\TeztCallouts\TeztCallouts\obj\Debug\TeztCallouts.dll
+C:\Users\victo\OneDrive\Desktop\LSPDFR Scripts\Projects\TeztCallouts\TeztCallouts\obj\Debug\TeztCallouts.pdb
